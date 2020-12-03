@@ -1,0 +1,13 @@
+#ifndef COMPONENTS_H
+#define COMPONENTS_H
+
+#include <aero.h>
+#include <alignment.h>
+#include <anti_roll_bars.h>
+#include <brake.h>
+#include <differential.h>
+#include <gearing.h>
+#include <springs.h>
+#include <tires.h>
+
+#endif // COMPONENTS_H
