@@ -23,12 +23,12 @@ set(SRC_HT
     src/springs.cpp
     src/gearing.cpp
     src/differential.cpp
-    src/component.cpp
+    src/component_builder.cpp
 )
 
 set(INC_HT
     inc/tune.h
-    inc/component.h
+    inc/component_builder.h
     inc/tires.h
     inc/field.h
     inc/gearing.h
